@@ -320,7 +320,9 @@ nav .fas{
     #services, #contact{
         text-align: center;
     }
-
+    .tab-contents{
+        text-align: left;
+    }
 }
 #msg{
     color: #61b752;
